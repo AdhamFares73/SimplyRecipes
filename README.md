@@ -6,7 +6,7 @@ Welcome to the Recipes project! This project is a collection of delicious recipe
 
 
 ## Demo
-Check out the live demo of the CRUD project at
+Check out the live demo of the Recipes Project project at
 https://simply-recipes-zeta.vercel.app/
 
 ## Project Structure
